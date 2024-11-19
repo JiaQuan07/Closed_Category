@@ -10,9 +10,17 @@ body:
   - type: input
     id: name
     attributes:
-      label: Name
-      description: Enter your full name
-      placeholder: Alex Tan Yong He
+      label: Team Name
+      description: Enter your team name
+      placeholder: Team 1
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Team Leader Name
+      description: Enter your team leader name
+      placeholder: Alex Tan Hong Ye
     validations:
       required: true
   - type: input
