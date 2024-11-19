@@ -1,7 +1,7 @@
 name: Hackathon Submission
 description: Add a hackathon submission
 title: "[Project]: "
-labels: ["submission", "needreview"]
+labels: ["submission", "need_review"]
 body:
   - type: markdown
     attributes:
@@ -12,7 +12,7 @@ body:
     attributes:
       label: Name
       description: Enter your full name
-      placeholder: Aditya Oberai
+      placeholder: Alex Tan Yong He
     validations:
       required: true
   - type: input
@@ -20,7 +20,7 @@ body:
     attributes:
       label: Email Address
       description: Enter your email address
-      placeholder: foo@bar.com
+      placeholder: 2400xxxx@siswa.um.edu.my
     validations:
       required: true
   - type: input
@@ -28,7 +28,7 @@ body:
     attributes:
       label: Email Addresses of Team Members
       description: Enter the email addresses of you team members separated by commas (if you have any)
-      placeholder: foo1@bar.com, foo2@bar.com, foo3@bar.com,...
+      placeholder: 2400xxxx@siswa.um.edu.my, 2400xxxx@siswa.um.edu.my, 2400xxxx@siswa.um.edu.my ......
     validations:
       required: false
   - type: textarea
@@ -40,31 +40,11 @@ body:
     validations:
       required: true
   - type: textarea
-    id: inspiration
-    attributes:
-      label: Inspiration behind the Project
-      description: What is the story behind this project? Why did you choose to work on this specific idea?
-      placeholder: The reason I chose this idea/project was...
-    validations:
-      required: true
-  - type: textarea
     id: tech-stack
     attributes:
       label: Tech Stack
       description: How have you built this project? Mention the technologies/methods/platforms you used to build your project
       placeholder: The technologies I used...
-    validations:
-      required: true
-  - type: dropdown
-    id: track
-    attributes:
-      label: Hackathon Track
-      description: What hackathon track are you opting in?
-      options:
-        - Track 1
-        - Track 2
-        - Track 3
-        - Track 4
     validations:
       required: true
   - type: input
