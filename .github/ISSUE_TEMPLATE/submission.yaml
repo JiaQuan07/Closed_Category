@@ -16,7 +16,7 @@ body:
     validations:
       required: true
   - type: input
-    id: leader name
+    id: leader-name
     attributes:
       label: Team Leader Name
       description: Enter your team leader name
