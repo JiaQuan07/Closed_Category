@@ -1,20 +1,43 @@
 # Hackathon Rules
-<!-- This is a sample set of rules. Feel free to add new rules or remove any existing ones. -->
+Rules & Protocols:
 
-* Hackers must form a team of 1 - 4 members. Solo hackers are allowed, however, building a team is encouraged.
+* Team size:  3-5 people.
 
-* The hackathon will start at **<START DATE AND TIME>** and end at **<END DATE AND TIME>**, you work on your hack during the allotted time only. Older projects will not be allowed. We will require you to build your project on the hackathon weekend.
+* Teams should be made up of only participants that fit in the criteria.
 
-* There are *X* themes of the hackathon, you must submit a hack that is in one of these themes.
+* All team members should be present during the Hackathon. (unless with valid excuse)
 
-* Hackers are not allowed to work on multiple teams and/or submit multiple projects. Hackers must be a part of only one team and one project.
-  
-* Only one member from the team will submit the project. They must add the contact details of all other team members in the submission.
+* Teams can use any software development tools, game engine, IDE, libraries, frameworks, or open-source code in their projects.
 
-* Once the hackathon starts, you will get an option to submit your hack, you can submit as many times as you want, the last hack will be considered as the final submission.
+* Coding language: Any (For 1st year category); Any (For open category).
 
-* Your hack must be developed entirely during the Hackathon duration. You may use open-source libraries and other freely available systems/services such as public cloud platforms, APIs, etc.
+* Teams must stop hacking once the time is up. 
 
-* The intellectual property of your code belongs only to your team.
+* No development may start before the actual date and time of the event. Any teams that violate this rule will be automatically disqualified.
 
-* By participating in the hackathon, you agree to the [Code of Conduct](CODE_OF_CONDUCT.md).
+* Participants should adhere to a code of conduct that promotes inclusivity, respect, and professionalism. 
+
+* Any form of harassment, discrimination, or inappropriate behaviour will not be tolerated.
+
+* A team can submit only one entry for the hackathon. Participation at the hackathon is subject to a ‘per-team’ basis meaning you are not allowed to be on more than one team at the event.
+
+* In case of any disputes or concerns, the decision of the organizers and judging panel will be final.
+ 
+* The organizers and sponsors of the Hackathon hold no liability for any damages, losses, or injuries incurred during the event. Participants are responsible for their own safety, equipment, and actions.
+
+* Participants must adhere to ethical standards and abide by the rules and regulations set by the organizers. Any form of cheating, plagiarism, or unfair practices will result in immediate disqualification.
+
+
+VIDEO GUIDELINES: 
+
+* Recommended format: MP4
+
+* Minimal usage of voice-over technique.
+
+* Try to be as creative as possible with the video pitching.
+
+* Duration: 5 minutes maximum.
+
+* Short self introduction of the group should also be included.
+
+* Implementing a video of the person(s) pitching (from the waist up) is strongly encouraged.
