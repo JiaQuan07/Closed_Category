@@ -1,0 +1,88 @@
+name: Hackathon Submission (Open Category)
+description: Add a hackathon submission
+title: "[Project]: "
+labels: ["Submission", "need_review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for participating in the hackathon and creating your submission!
+  - type: input
+    id: name
+    attributes:
+      label: Team Name
+      description: Enter your team name
+      placeholder: Team 1
+    validations:
+      required: true
+  - type: input
+    id: leader-name
+    attributes:
+      label: Team Leader Name
+      description: Enter your team leader name
+      placeholder: Alex Tan Hong Ye
+    validations:
+      required: true
+  - type: input
+    id: email
+    attributes:
+      label: Email Address
+      description: Enter your email address
+      placeholder: 2400xxxx@siswa.um.edu.my
+    validations:
+      required: true
+  - type: input
+    id: team-emails
+    attributes:
+      label: Email Addresses of Team Members
+      description: Enter the email addresses of you team members separated by commas (if you have any)
+      placeholder: 2400xxxx@siswa.um.edu.my, 2400xxxx@siswa.um.edu.my, 2400xxxx@siswa.um.edu.my ......
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: Project Description
+      description: What have you built during the hackathon?
+      placeholder: The project I created is...
+    validations:
+      required: true
+  - type: textarea
+    id: tech-stack
+    attributes:
+      label: Tech Stack
+      description: How have you built this project? Mention the technologies/methods/platforms you used to build your project
+      placeholder: The technologies I used...
+    validations:
+      required: true
+  - type: input
+    id: project-link
+    attributes:
+      label: Project Repo
+      description: Share a public repo link of your project
+      placeholder: https://github.com/code-capture/CodeCapture-Xamarin
+    validations:
+      required: true
+  - type: input
+    id: demo-link
+    attributes:
+      label: Demo Video/Photos
+      description: Share a publicly visible demo video/photos link of your project
+      placeholder: https://www.youtube.com/watch?v=9IBaX1avYWc
+    validations:
+      required: false
+  - type: textarea
+    id: anything-else
+    attributes:
+      label: Anything Else?
+      description: Any other feedback, queries or information, you would like to share with us?
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Rules and Code of Conduct
+      description: By submitting this issue, you agree to follow our Rules and Code of Conduct.
+      options:
+        - label: I agree to follow this hackathon's Rules and Code of Conduct
+          required: true
